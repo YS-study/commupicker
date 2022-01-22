@@ -2,7 +2,7 @@
 
 |                            이다은                            |                            이산하                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/77421856?v=4" alt="img" style="zoom:67%;" /> | ![img](https://avatars.githubusercontent.com/u/82338010?v=4) |
+| <img src="https://avatars.githubusercontent.com/u/77421856?v=4" alt="img" style="height: 225px; width: 225px;" /> | ![img](https://avatars.githubusercontent.com/u/82338010?v=4) |
 |                              BE                              |                              FE                              |
 
 - 서비스 명 : commupicker
