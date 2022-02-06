@@ -1,0 +1,20 @@
+version: '3.2'
+services: 
+  frontend:
+    build:
+      context: frontend/
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /app/node_modules
+    container_name: "frontend"
+  
+  backend:
+    build:
+      context: backend/
+      dockerfile: Dockerfile
+    ports:
+      - "4000:4000"
+    container_name: "backend"
