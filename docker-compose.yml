@@ -17,6 +17,4 @@ services:
       dockerfile: Dockerfile
     ports:
       - "4000:8080"
-    volumes:
-      - /home/ubuntu/docker-volume/ssl:/root
     container_name: "backend"
